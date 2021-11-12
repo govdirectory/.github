@@ -1,6 +1,6 @@
 # Welcome to Govdirectory
 
-![banner](repo-image.png)
+![banner](https://raw.githubusercontent.com/govdirectory/.github/main/profile/repo-image.png)
 
 [![Twitter](https://img.shields.io/badge/twitter-@govdirectory--twitter-9cf.svg)](https://twitter.com/govdirectory)
 
