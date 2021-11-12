@@ -18,4 +18,4 @@ The easiest way to contact your government.
 
 You find the main website on [govdirectory.org](https://govdirectory.org) and the repository for it is [website](https://github.com/govdirectory/website).
 
-The work on Wikidata is being coordinated in WikiProject Govdirectory](https://www.wikidata.org/wiki/Wikidata:WikiProject_Govdirectory).
+The work on Wikidata is being coordinated in [WikiProject Govdirectory](https://www.wikidata.org/wiki/Wikidata:WikiProject_Govdirectory).
