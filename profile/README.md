@@ -14,6 +14,12 @@ The easiest way to contact your government.
 
 > We will enable a community powered directory where the online presence of every public organization is easily findable, queryable and trustworthy.
 
+## Website statistics
+
+The website only display a subset of government information as much of what is in progress is not yet complete. [See our statistics page for details regarding coverege](https://www.govdirectory.org/statistics/).
+
+![statistics](https://www.govdirectory.org/statistics/statistics.svg)
+
 ## Relevant links
 
 You find the main website on [govdirectory.org](https://govdirectory.org) and the repository for it is [website](https://github.com/govdirectory/website).
