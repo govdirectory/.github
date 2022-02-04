@@ -16,7 +16,7 @@ The easiest way to contact your government.
 
 ## Website statistics
 
-The website only display a subset of government information as much of what is in progress is not yet complete. [See our statistics page for details regarding coverege](https://www.govdirectory.org/statistics/).
+We aim to only publish complete sets of data on the website, a lot more government information is still work in progress. [See our statistics page for details regarding coverage](https://www.govdirectory.org/statistics/).
 
 ![statistics](https://www.govdirectory.org/statistics/statistics.svg)
 
