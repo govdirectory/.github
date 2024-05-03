@@ -2,7 +2,7 @@
 
 ![banner](https://raw.githubusercontent.com/govdirectory/.github/main/profile/repo-image.png)
 
-[![Twitter](https://img.shields.io/badge/twitter-@govdirectory--twitter-9cf.svg)](https://twitter.com/govdirectory)
+[![Mastodon](https://fedi-badge.deno.dev/@govdirectory@wikis.world/followers.svg?style=flat)](https://wikis.world/@govdirectory)
 
 The easiest way to contact your government.
 
